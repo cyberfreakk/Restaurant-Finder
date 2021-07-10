@@ -1,6 +1,6 @@
 # Restaurant Finder
 
-![logo](foodspark/static/img/logo.ico)
+![logo](foodspark/static/img/llogo.ico)
 
 Deployed on http://knightslord.pythonanywhere.com/
 
